@@ -63,7 +63,7 @@
 
 This package is "go-gettable", just do:
 
-    go get github.com/AlexanderChen1989/rest
+    go get github.com/AlexanderChen1989/go-json-rest/rest
 
 
 ## Vendoring
